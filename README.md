@@ -1,4 +1,5 @@
-## Git Intro: 24.09.2025
+# Git Intro: 24.09.2025
+## [Link to Exercise sheet](https://patrickschniderunibas.github.io/software-engineering/exercises/first-changes)
 
 Create a file
 - `touch testfile.txt`
