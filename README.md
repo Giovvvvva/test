@@ -1,7 +1,5 @@
 ## Git Intro:
 
----
-
 - Create a file
 - - 'touch testfile.txt'
 
