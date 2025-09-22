@@ -1,4 +1,4 @@
-## Git Intro:
+## Git Intro: 24.09.2025
 
 Create a file
 - `touch testfile.txt`
