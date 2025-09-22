@@ -1,28 +1,28 @@
 ## Git Intro:
 
 Create a file
-- - `touch testfile.txt`
+- `touch testfile.txt`
 
 ---
 
 Git status
-- - `git status`
+- `git status`
 
 ---
 
 Git add
-- - `git add`
-- - `git add .` is not good practice but works
+- `git add`
+- `git add .` is not good practice but works
 
 ---
 
 Git commit
-- - `git commit -m "Add message to commit here"`
+- `git commit -m "Add message to commit here"`
 
 ---
 
 Git push
-- - `git push`
+- `git push`
 
 ---
 
